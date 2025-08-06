@@ -2,3 +2,7 @@
 	path = subproject-repo-one
 	url = git@github.com:per4month/subproject-repo-one.git
 	branch = 3.10.0
+[submodule "tcpdump-clone"]
+	path = tcpdump-clone
+	url = git@github.com:per4month/tcpdump-clone.git
+	branch = 3.10.0
